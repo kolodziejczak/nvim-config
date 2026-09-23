@@ -45,3 +45,4 @@ opt.mouse = "a"
 opt.updatetime = 250
 opt.timeoutlen = 300
 opt.showmode = false
+opt.shortmess:append("I")
