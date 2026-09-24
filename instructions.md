@@ -159,3 +159,13 @@
 | `Space + hp` | Preview hunk |
 | `Space + hb` | Blame current line |
 | `Space + hd` | Diff this file |
+
+---
+
+## Copilot
+
+| Key | Action |
+|-----|--------|
+| `Alt+l` | Accept suggestion |
+| `Alt+]` | Next suggestion |
+| `Alt+[` | Previous suggestion |
