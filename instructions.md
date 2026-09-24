@@ -16,6 +16,9 @@
 | `Ctrl+Down` | Decrease window height |
 | `Ctrl+Left` | Decrease window width |
 | `Ctrl+Right` | Increase window width |
+| `Space + sv` | Vertical split |
+| `Space + sh` | Horizontal split |
+| `Space + sx` | Close split |
 
 ---
 
@@ -159,6 +162,16 @@
 | `Space + hp` | Preview hunk |
 | `Space + hb` | Blame current line |
 | `Space + hd` | Diff this file |
+
+---
+
+## Diffview
+
+| Key | Action |
+|-----|--------|
+| `Space + gd` | Open diffview |
+| `Space + gh` | File history (current file) |
+| `Space + gx` | Close diffview |
 
 ---
 

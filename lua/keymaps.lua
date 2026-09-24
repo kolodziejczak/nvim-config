@@ -45,3 +45,8 @@ map("v", ">", ">gv")
 -- Navigate buffers
 map("n", "<S-l>", "<cmd>bnext<cr>")
 map("n", "<S-h>", "<cmd>bprevious<cr>")
+
+-- Splits
+map("n", "<leader>sv", "<cmd>vsplit<cr>")
+map("n", "<leader>sh", "<cmd>split<cr>")
+map("n", "<leader>sx", "<cmd>close<cr>")
